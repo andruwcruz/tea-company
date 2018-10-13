@@ -2,7 +2,7 @@
 
 ![tea-company](https://raw.githubusercontent.com/andruwcruz/tea-company/master/images/tea-company.jpg)
 
-This repo is a website design I worked on with an impatient client.
+This repo is a website design I worked on with an impatient client that didn't get launched properly.
 
 Built using WordPress with Bootstrap mixed in with js and css animations.
 
